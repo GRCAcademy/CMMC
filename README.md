@@ -1,6 +1,8 @@
 # CMMC
 
-This repository contains versions of the CMMC related rules and documents.
+This repository contains versions of CMMC related rules and documents.
+
+It can be used to view the differences between versions.
 
 ## CMMC Rulemaking
 
