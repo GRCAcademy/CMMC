@@ -12,6 +12,7 @@ It can be used to view the differences between versions.
 ## CMMC Documents
 
 - [CMMC Model Overview](https://github.com/GRCAcademy/CMMC/blob/main/Rulemaking/Documents/CMMC%20Model%20Overview)
+- [CMMC Hashing Guide](https://github.com/GRCAcademy/CMMC/blob/main/Rulemaking/Documents/CMMC%20Hashing%20Guide)
 
 ### Assessment Guides
 
